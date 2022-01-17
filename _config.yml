@@ -1,8 +1,10 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+title: Kero's no style, please! # name of the site
+author: Kero # name of site's author
+email: pudy@live.cn # email of site's author
+repository: pudy/nostyle
+github_url: https://github.com/pudy
+# url: https://pudy.github.io # root address of the site
+baseurl: "/nostyle" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
